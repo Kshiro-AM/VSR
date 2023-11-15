@@ -1,0 +1,3 @@
+[submodule "VSR/vendor/Eigen"]
+	path = VSR/vendor/Eigen
+	url = https://gitlab.com/kshiro.am/eigen.git
